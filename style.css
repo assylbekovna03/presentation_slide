@@ -1,0 +1,90 @@
+body {
+    background-color: cornsilk;
+}
+
+.header {}
+
+h1 {
+    margin: 0;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(56, 49, 59);
+    letter-spacing: 10px;
+    font-family: cursive;
+    background-color: rgb(180, 206, 206);
+}
+
+h2 {
+    margin: 0;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(56, 49, 59);
+    letter-spacing: 10px;
+    font-family: cursive;
+}
+
+.Aru img {
+    height: 450px;
+}
+
+.Azamat img {
+    height: 450px;
+    width: 370px;
+}
+
+.Akbota img {
+    height: 450px;
+    width: 340px;
+}
+
+.Aru h3 {
+    margin: 0;
+    font-size: 25px;
+    color: rgb(56, 49, 59);
+    letter-spacing: 5px;
+    font-family: cursive;
+}
+
+.Azamat h3 {
+    margin: 0;
+    font-size: 25px;
+    color: rgb(56, 49, 59);
+    letter-spacing: 5px;
+    font-family: cursive;
+}
+
+.Akbota h3 {
+    margin: 0;
+    font-size: 25px;
+    color: rgb(56, 49, 59);
+    letter-spacing: 5px;
+    font-family: cursive;
+}
+
+.photo {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+.second h3 {
+    font-size: 25px;
+    letter-spacing: 2px;
+    font-family: cursive;
+    text-align: center;
+}
+
+.second img {
+    height: 500px;
+    padding-left: 13%;
+}
+
+.images {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 40px;
+}
+
+.images html {}
